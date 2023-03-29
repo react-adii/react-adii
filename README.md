@@ -1,14 +1,23 @@
 ![logo](https://github.com/react-adii/react-adii/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Muhammad Qasim Afzal</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-
+<br/>
+<h2>💫About Me </h2>
+🔭 I'm a fresher who loves the backend (PHP Laravel mainly), currently looking for a new opportunity<br/>
+🌱 I’m currently working with Full Stack<br/>
+🔧 Laravel & JavaScript Framworks Enthusiast<br/>
+⚡ Problem Solver<br/>
+🥅 2023 Goals: Contribute more to Open Source projects<br/>
+👯 Fun fact: I love to play cricket and football<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=react-adii&label=Profile%20views&color=0e75b6&style=flat" alt="react-adii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=react-adii" alt="react-adii" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mqasimafzal1" target="blank"><img src="https://img.shields.io/twitter/follow/mqasimafzal1?logo=twitter&style=for-the-badge" alt="mqasimafzal1" /></a> </p>
 
-- 📫 How to reach me **afzalqasim30@gmail.com**
+- ## 📫   How to reach me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-qasim-afzal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mqasimafzal1)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meharqasim22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meharqasim22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
