@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mqasimafzal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mqasimafzal1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-qasim-afzal-4ba5801a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-qasim-afzal-4ba5801a5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-qasim-afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-qasim-afzal-4ba5801a5" height="30" width="40" /></a>
 <a href="https://fb.com/meharqasim22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meharqasim22" height="30" width="40" /></a>
 <a href="https://instagram.com/meharqasim22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meharqasim22" height="30" width="40" /></a>
 </p>
